@@ -1,0 +1,19 @@
+@font-face {
+    font-family: surbhiFont ;
+    src: url("../fonts/AlexBrush-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: monishFont ;
+    src: url("../fonts/SourceSansPro-Black.otf") format("opentype");
+}
+article{
+    border-bottom: 1px solid black;
+}
+h1.n1{
+    color: red;
+    font-family: surbhiFont;
+}
+h1.n2{
+    color: green;
+    font-family: monishFont;
+}
